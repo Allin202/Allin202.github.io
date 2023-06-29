@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>赵祥龙的博客</title>
+  
+  <subtitle>赵祥龙的博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://allin202.github.io/"/>
+  <updated>2023-06-17T15:39:49.781Z</updated>
+  <id>https://allin202.github.io/</id>
+  
+  <author>
+    <name>赵祥龙</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《Web应用基础》结业报告</title>
+    <link href="https://allin202.github.io/2023/06/18/bg03/"/>
+    <id>https://allin202.github.io/2023/06/18/bg03/</id>
+    <published>2023-06-18T14:33:18.000Z</published>
+    <updated>2023-06-17T15:39:49.781Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;《Web应用基础》结业报告&quot;&gt;&lt;a href=&quot;#《Web应用基础》结业报告&quot; class=&quot;headerlink&quot; title=&quot;《Web应用基础》结业报告&quot;&gt;&lt;/a&gt;《Web应用基础》结业报告&lt;/h1&gt;&lt;h1 id=&quot;一、项目简介&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="报告" scheme="https://allin202.github.io/categories/%E6%8A%A5%E5%91%8A/"/>
+    
+    
+      <category term="报告" scheme="https://allin202.github.io/tags/%E6%8A%A5%E5%91%8A/"/>
+    
+      <category term="web" scheme="https://allin202.github.io/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript &amp; TypeScript 学习总结</title>
+    <link href="https://allin202.github.io/2023/06/17/bg02/"/>
+    <id>https://allin202.github.io/2023/06/17/bg02/</id>
+    <published>2023-06-17T13:52:25.000Z</published>
+    <updated>2023-06-29T01:56:10.117Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;JavaScript-amp-TypeScript-学习总结&quot;&gt;&lt;a href=&quot;#JavaScript-amp-TypeScript-学习总结&quot; class=&quot;headerlink&quot; title=&quot;JavaScript &amp;amp; TypeScript
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HTML&amp;CSS 学习总结</title>
+    <link href="https://allin202.github.io/2023/06/17/bg01/"/>
+    <id>https://allin202.github.io/2023/06/17/bg01/</id>
+    <published>2023-06-17T13:52:19.000Z</published>
+    <updated>2023-06-17T15:40:27.614Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;HTML-amp-CSS-学习总结&quot;&gt;&lt;a href=&quot;#HTML-amp-CSS-学习总结&quot; class=&quot;headerlink&quot; title=&quot;HTML&amp;amp;CSS 学习总结&quot;&gt;&lt;/a&gt;HTML&amp;amp;CSS 学习总结&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL笔记（持续更新中）</title>
+    <link href="https://allin202.github.io/2023/05/26/blog01/"/>
+    <id>https://allin202.github.io/2023/05/26/blog01/</id>
+    <published>2023-05-26T02:17:02.000Z</published>
+    <updated>2023-06-17T13:48:42.584Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-基础篇&quot;&gt;&lt;a href=&quot;#1-基础篇&quot; class=&quot;headerlink&quot; title=&quot;1.基础篇&quot;&gt;&lt;/a&gt;1.基础篇&lt;/h1&gt;&lt;h2 id=&quot;1-1通用语法及分类&quot;&gt;&lt;a href=&quot;#1-1通用语法及分类&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="数据库" scheme="https://allin202.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="Mysql" scheme="https://allin202.github.io/tags/Mysql/"/>
+    
+      <category term="关系型数据库" scheme="https://allin202.github.io/tags/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="笔记" scheme="https://allin202.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+</feed>
